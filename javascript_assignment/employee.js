@@ -1,0 +1,25 @@
+let employee_details=[{
+    name:'deepanshu',
+    age:22,
+    salary:10000,
+    dob:'25-03-1998'
+},
+{
+    name:"sachin",
+    age:10,
+    salary:5000,
+    dob:'02-05-2008'
+},
+{
+    name:"varnit",
+    age:13,
+    salary:400,
+    dob:'26-12-1997'
+},
+{
+    name:"saunak",
+    age:25,
+    salary:8000,
+    dob:'01-01-1990'
+}
+]
