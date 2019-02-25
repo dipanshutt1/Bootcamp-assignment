@@ -1,0 +1,60 @@
+header{
+    background-color:white;
+}
+.logo ,nav, .social_icons {
+    display: inline-block;
+    vertical-align: top;
+}
+.logo img{
+    padding-left: 15px;
+
+}
+nav a{
+    text-decoration: none;
+    color: rgb(167, 81, 81);
+    padding: 10px 20px;
+    display: inline-block;
+    text-align: center;
+    
+}
+.social_icons{
+    float: right;
+    padding: 10px 35px ;
+}
+.social_icons li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    
+}
+.pagination{
+    padding-left: 20px;
+    background-color:aqua;
+}
+.col-10{
+    width: 83.34%;
+    margin: auto;
+}
+.banner{
+    width: 100%;
+    height: auto;
+}
+.highlight{
+    margin-top: 10px;
+    background: #ccc;
+}
+
+.highlight ul{
+    display: block;
+
+}
+.highlight .highlight_item { 
+    background-color: aquamarine;
+    width: 20%;
+    display:inline-block;
+    text-align: center;
+    padding: 20px;
+    margin-right: 0.2%;
+
+    
+}
