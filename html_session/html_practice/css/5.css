@@ -1,0 +1,18 @@
+body {
+    background-color: #cfddf4;
+  }
+  
+  table {
+    text-align: center;
+    border: 1px solid #000;
+    border-collapse: collapse;
+  }
+  
+  table table {
+    border: none;
+    border-collapse: separate;
+  }
+  
+  td {
+    border: 1px solid #000;
+  }

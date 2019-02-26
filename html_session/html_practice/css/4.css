@@ -1,0 +1,13 @@
+body{
+    background-image:url('../assets/background.jpg');
+
+}
+table {
+    color: #000;
+  }
+caption{
+    color: #6f3b3c;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}

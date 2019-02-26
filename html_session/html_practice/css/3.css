@@ -1,0 +1,24 @@
+body {
+    background-image:url("http://www.geocities.ws/claulind/portfolio/tutorial4case4/parch.jpg")
+  }
+  table {
+    color: #6f3b3c;
+    float: right;
+  }
+  
+  caption {
+    font-weight: bold;
+  }
+  
+  img {
+    float:left;
+    margin-right: 12px;
+  }
+  
+  article {
+    color: #6f3b3c;
+  }
+  
+  article > h2 {
+    text-align: center;
+  }
