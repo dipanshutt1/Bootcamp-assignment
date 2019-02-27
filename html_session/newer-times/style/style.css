@@ -1,0 +1,143 @@
+body {
+	border: 10px solid #999;
+	padding: 40px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#logo {
+	width: 120px;
+}
+
+.clip-text-bg {
+	background-image: linear-gradient(to right, #b3278d, #da157f, #da157f, #da157f, #363d97, #b3278d, #b3278d, #5a3795, #2f3b8d, #1ca7e0, #3dc4e3);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	-o-background-clip: text;
+	font-size: 72px;
+	font-weight: bold;
+	color: transparent;
+	display: inline-block;
+	vertical-align: middle;
+	float: right;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#date {
+	clear:both; 
+	float: right; 
+	font-size: 20px; 
+	color: #444; 
+	font-weight: bold;
+	margin-bottom: 14px;
+}
+
+hr {
+	clear: both;
+	margin-bottom: 150px;
+}
+
+.row {
+	width: 100%;
+	margin: 20px 0;
+}
+
+.col-5 {
+	display: inline-block;
+	width: 48%;
+	padding: 16px;
+	text-align: justify;
+	vertical-align: top;
+}
+
+.col-5:first-child {
+	padding-left: 0;
+}
+
+.col-5:last-child {
+	padding-right: 0;
+}
+
+.article-title {
+	font-size: 27px;
+	line-height: 40px;
+	font-weight: bolder;
+}
+
+.article-title ~ p, .article-title ~ a {
+	font-size: 19px;	
+	line-height: 24px;
+}
+
+.grid-img {
+	max-height: 100%;
+	width: 100%;
+}
+
+#grid {
+	overflow: hidden;
+}
+
+.grid-right {
+	height: 185px; 
+	overflow: hidden; 
+	display: block; 
+	width: 100%; 
+	position: relative;
+}
+
+.grid-right:first-child {
+	margin-bottom: 16px;
+}
+.grid-right:last-child {
+	margin-top: 16px;
+}
+
+.grid-right .grid-img {
+	position: absolute;
+}
+
+.article-title + small {
+	margin: 16px 0;
+	display: block;
+}
+
+.article-title ~ a {
+	text-decoration: none;
+	color: #de3690;
+}
+
+footer {
+	width: fit-content;
+	margin: 30px auto;
+}
+
+footer .icons a{
+	text-decoration: none;
+	padding: 10px;
+}
+
+footer .icons a i {
+	color: #474747;
+}
+
+#title-bg {
+	width: 300px; 
+	height: 50px; 
+	border: 1px solid #444; 
+	margin: 0 auto; 
+	text-align: center; 
+	position: relative;
+	margin-top: 100px;
+}
+
+#title {
+	background-color: #fff; 
+	font-size: 30px; 
+	display: block; 
+	width: 120%; 
+	margin: 0 auto;
+	position: absolute; 
+	top: 10px; 
+	left: -36px;
+}
