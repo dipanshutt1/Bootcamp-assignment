@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20190207T140000
+DTEND;TZID=Asia/Kolkata:20190207T153000
+DTSTAMP:20190206T073453Z
+ORGANIZER;CN=aman.jain@tothenew.com:mailto:aman.jain@tothenew.com
+UID:35380n6dquluj0573pkngn32ns_R20190102T083000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=deepanshu@tothenew.com;X-NUM-GUESTS=0:mailto:deepanshu@tothenew.com
+RECURRENCE-ID;TZID=Asia/Kolkata:20190206T140000
+CREATED:20181026T062248Z
+DESCRIPTION:Session Agenda :\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this secti
+ on of the description.\n\nView your event at https://www.google.com/calenda
+ r/event?action=VIEW&eid=MzUzODBuNmRxdWx1ajA1NzNwa25nbjMybnNfMjAxOTAyMDZUMDg
+ zMDAwWiBkZWVwYW5zaHVAdG90aGVuZXcuY29t&tok=MjIjYW1hbi5qYWluQHRvdGhlbmV3LmNvb
+ TBhZTQzOTUwNzJhM2M0ODI0YzA1YzgzNGViMDhiYzdkNGJkMjE3YjQ&ctz=Asia%2FKolkata&h
+ l=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20190206T073452Z
+LOCATION:Berlin-logix-conference-room
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KSS: DevOps weekly session 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
