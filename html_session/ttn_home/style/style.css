@@ -70,13 +70,14 @@ header{
 }
 .icon{
     display: inline-block;
-}
-.icon{
     font-size: 20px;
     padding: 80px;
     border-right: 3px solid;
     border-image: linear-gradient(to bottom, transparent 20% , gray , transparent 60%) 1 100%;
 
+}
+.icon:last-child{
+    border: none;
 }
 .icon i{
     padding: 15px 0;
@@ -143,6 +144,9 @@ hr{
     font-size: 30px;
     position: relative;
 }
+.map img{
+    width: 100%;
+}
 .map-left{
     position: absolute;
     top:100px;
@@ -163,7 +167,8 @@ hr{
 }
 .map{
     position: relative;
-
+    width: 60%;
+    margin: 0 auto;
 }
 .dots {
     box-sizing: border-box;
@@ -182,8 +187,80 @@ hr{
 }
 .india{
     position: absolute;
-    top:30%;
-    left: 61%;
+    top:37%;
+    left: 70%;
+}
+.us{
+    position: absolute;
+    top: 25%;
+    left: 17%;
+}
+.canada{
+    position: absolute;
+    top: 10%;
+    left: 65%;
+}
+.australia{
+    position: absolute;
+    top: 66%;
+    left: 88%;
+}
+.china{
+    position: absolute;
+    top: 30%;
+    left: 76%;
+}
+
+.india2{
+    position: absolute;
+    top: 35%;
+    left: 46%;
+}
+.brazil{
+    position: absolute;
+    top: 55%;
+    left:22%
+}
+.argentina {
+position: absolute;
+top: 65%;
+left: 25%;
+}
+
+.south-africa {
+position: absolute;
+top: 68%;
+left: 50%;
+}
+
+.pune {
+top: 41.2%;
+left: 69.2%;
+position: absolute;
+}
+
+.indore {
+top: 37.8%;
+left: 71%;
+position: absolute;
+}
+
+.hangzhou {
+top: 42%;
+left: 78%;
+position: absolute;
+}
+
+.shanghai {
+top: 36%;
+left: 75%;
+position: absolute;
+}
+
+.vietnam {
+top: 30%;
+left: 79%;
+position: absolute;
 }
 .map-right{
     position: absolute;
@@ -193,4 +270,84 @@ hr{
 .map-right span{
     display: inline-block;
     vertical-align: middle;
+}
+.footer1{
+    background-color: #3b3b3b;
+    padding-top: 40px;
+}
+.f-left{
+    margin-left: 60px;
+    display: inline-block;
+}
+.f-left p{
+    font-size: 15px;
+    text-transform: uppercase;
+    margin: 8px;
+    color: #fff;
+}
+.f-left ul li{
+    display: inline-block;
+    padding: 8px;
+    text-align: center;
+    height:20px;
+    width: 20px;
+    color: #fff;
+    margin: 1px;
+    background-color:#ff9b3e;
+    border-radius: 50%;
+}
+.f-left i{
+    font-size: 20px;
+}.f-right{
+    float: right;
+    margin-right: 60px;
+}
+.f-r-upper span{
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #fff;
+}
+.get-email-data{
+    margin: 8px;
+
+}
+input[type='text']{
+    padding: 9px 45px;
+    padding-left: 10px;
+    border: none;
+    
+}
+input[type='button']{
+    padding: 9px 20px;;
+    color: #fff; 
+    background-color:#ff9b3e;
+    border: none;
+}
+.footer1 hr{
+    width: 100%;
+    border-top:1px solid #fff;
+    margin-bottom: 20px;
+}
+.img-div {
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+    
+}
+.img-div img{
+    display: inline-block;
+    vertical-align: middle;
+}
+.s-center{
+    display: inline-block;
+    vertical-align:middle;
+}
+.show-more{
+    text-align: center;
+    color: #fff;
+    background-color: #2a2a2a;
+    padding: 15px 0;
+}
+.show-more p{
+    margin-bottom: 0;
 }

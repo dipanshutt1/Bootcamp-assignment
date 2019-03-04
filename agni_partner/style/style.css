@@ -61,8 +61,9 @@
     font-weight: bold;
 }
 .vid-content{
-    border: 1px solid grey;
     display: inline-block;
+    width: 100%;
+    
 }
 .vid-img{
     display: inline-block;
@@ -84,6 +85,11 @@
     display:block;
     vertical-align: middle;
 }
-.sub-content span{
+.img-content{
     display: inline-block;
+    vertical-align: middle;
+}
+.name-content{
+    display: inline-block;
+    vertical-align: middle;
 }
