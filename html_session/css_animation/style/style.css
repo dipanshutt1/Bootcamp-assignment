@@ -1,0 +1,52 @@
+.container{
+    background-image: url('../assets/container-pic.png');
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+.content{
+    background-image: url('../assets/content.jpeg');
+    height: 500px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: scroll;
+    height: 50%;
+    width: 50%;
+    background-attachment:local;
+}
+
+.content p{
+    background-color: #f00;
+}
+footer{
+    position: relative;
+    width: 60%;
+    margin:0 auto;
+}
+footer .facebook{
+    background: url('../assets/icons.png') -200px -10px;
+    position: absolute;
+    height: 160px;
+    width: 200px;
+}
+footer .insta{
+    background: url('../assets/icons.png') 0 -10px;
+    position: absolute;
+    height: 160px;
+    width: 200px;
+    left: 200px;
+
+}
+ footer .twitter{
+     background: url('../assets/icons.png') -400px -10px;
+     position: absolute;
+     height: 160px;
+     width: 200px;
+     left: 400px;
+ }
