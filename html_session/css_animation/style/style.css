@@ -50,3 +50,21 @@ footer .insta{
      width: 200px;
      left: 400px;
  }
+ .ani{
+     width: 100px;
+     height: 100px;
+     animation-name: ani-example;
+     animation-duration: 4s;
+     background-color: red;
+     animation-delay: 3s;
+     animation-iteration-count: 2;
+    }
+@keyframes ani-example{
+    0%{opacity: 1;}
+    50%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 0.5;
+    }
+}
