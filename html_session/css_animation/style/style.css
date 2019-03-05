@@ -68,3 +68,18 @@ footer .insta{
         opacity: 0.5;
     }
 }
+#div1{
+    height: 100px;
+    width: 200px;
+    background-color: #ff00ff;
+    border: 1px solid #000;
+}
+
+#div1:active{
+    height: 200px;
+    width: 100px;
+    background-color: #000;
+    border: 2px solid #ff00ff;
+    transition: width 1s, height 1s, transform 1s;
+    transform: scale(2,3);
+}
