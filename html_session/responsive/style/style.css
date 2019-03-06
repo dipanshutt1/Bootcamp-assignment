@@ -29,7 +29,11 @@ html, body{
 }
 .content ul{
     float: right;   
-
+}
+.content .color-ham{
+    display: none;
+    float: right;
+    color: #fff;
 }
 .glass{
     height: 100%;
@@ -59,6 +63,7 @@ header{
     color: #fff;
     text-align: center;
     position: relative;
+    clear: both;
 }
 .sub-content{
     display: inline-block;
@@ -177,5 +182,12 @@ form{
     }
     .half{
         width: 100%;
+    }
+    .content ul{
+        display: none;
+    }
+    .content .color-ham{
+        display: block; 
+
     }
 }
