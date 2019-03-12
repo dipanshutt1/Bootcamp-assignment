@@ -24,7 +24,7 @@ hr=(hr<=9) ? "0" + hr:hr;
 min=(min<=9) ? "0" + min:min;
 sec=(sec<=9) ? "0" + sec:sec;
 
-var time = hr + ":" +min +":" + ":"+ sec +":" + session;
+var time = hr + ":" +min +":"+ sec +":" + session;
 
 var month=['jan','feb','mar','apr','may','june','july','aug','sep','oct','nov','dec'];
 
