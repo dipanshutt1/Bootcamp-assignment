@@ -1,8 +1,9 @@
+var wish = "test";
 function clock(){
-    var d=new Date();
-    var hr=d.getHours();
-    var min=d.getMinutes();
-    var sec=d.getSeconds();
+    var currentDate=new Date();
+    var hr=currentDate.getHours();
+    var min=currentDate.getMinutes();
+    var sec=currentDate.getSeconds();
 
     
     if(hr>=0 && hr<12)
@@ -31,6 +32,6 @@ var month=['jan','feb','mar','apr','may','june','july','aug','sep','oct','nov','
 document.getElementById('greet').innerHTML=wish;
 document.getElementById('time').innerHTML=time;
 
-document.getElementById('date').innerHTML=d.getDate()+" "+month[d.getMonth()]+" "+(1900+d.getYear());
+document.getElementById('date').innerHTML=currentDate.getDate()+" "+month[currentDate.getMonth()]+" "+(currentDate.getFullYear());
 }
 setInterval(clock, 1000);

@@ -130,11 +130,13 @@ hr{
     width: 100%;    
 }
 .img-card{
-    width: 55%;
     display: inline-block;
+    width: 50%;
 }
-.powered-content{
+.powered-content p{
+
     display: inline-block;
+    width: 35%;
 }
 .map-section{
     background-color: #000;
