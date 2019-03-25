@@ -5,7 +5,7 @@ import './Header.css'
         return (
             <header>
                 hello header
-                <p>{this.props.c}{}</p>
+                <p>{this.props.count}{}</p>
             </header>
         );
     }

@@ -25,7 +25,7 @@ class App extends Component {
   render() {
     return (
       <div className = 'App'>
-      <Header c={this.state.counter}/>
+      <Header count={this.state.counter}/>
       <Main func = {this.onIncrease}/>
       <Aside/>
       <Footer fn = {this.onIncrease}/>
