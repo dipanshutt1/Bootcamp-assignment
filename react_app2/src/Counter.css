@@ -1,0 +1,12 @@
+button {
+    padding: 10px;
+    background-color: #61dafb;
+    margin:10px;
+    font-size: 15px;
+}
+
+div{
+    text-align: center;
+    padding: 20px;
+    background-color: azure;
+}
