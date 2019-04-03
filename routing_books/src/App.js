@@ -9,6 +9,7 @@ import {
 import logo from './logo.svg';
 import './App.css';
 import Books from "./Books";
+import BookList from "./BookList";
 
 class App extends Component {
   constructor(){
@@ -40,6 +41,10 @@ class App extends Component {
                 component={Books}
                 isAuth={this.state.isAuth}
             />
+            <PrivateRoute
+                path='/book/:id'
+                component={BookList}
+                isAuth={this.state.isAuth}/>
           </Router>
     );
   }
