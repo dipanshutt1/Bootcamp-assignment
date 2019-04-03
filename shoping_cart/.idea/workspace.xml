@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2bc519a-d3d1-4143-a3eb-97aa4df95c0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../react/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react/.idea/react.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing_books/src/BookList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing_books/src/BooksJSON.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Component/Cart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dishes/src/Dish.js" beforeDir="false" afterPath="$PROJECT_DIR$/../dishes/src/Dish.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myapp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../react_app2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react_app2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../routing_books/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../routing_books/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../routing_books/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../routing_books/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routing_books/src/BookList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../routing_books/src/BookList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../routing_books/src/Books.js" beforeDir="false" afterPath="$PROJECT_DIR$/../routing_books/src/Books.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routing_books/src/BooksJSON.json" beforeDir="false" afterPath="$PROJECT_DIR$/../routing_books/src/BooksJSON.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,7 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -36,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Component/Cart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="61" column="50" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="50" />
+            <state relative-caret-position="194">
+              <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -48,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Component/AddItemComponent.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -126,6 +122,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../myntra_app" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -157,24 +154,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554180105787</updated>
-      <workItem from="1554180106837" duration="13374000" />
+      <workItem from="1554180106837" duration="14374000" />
+      <workItem from="1554275705610" duration="601000" />
+      <workItem from="1554277184568" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13374000" />
+    <option name="totallyTimeSpent" value="14979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -182,6 +178,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -191,13 +191,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Component/CartItem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -205,20 +198,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Component/Cart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="61" column="50" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Component/AddItemComponent.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/CartItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
