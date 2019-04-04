@@ -4,7 +4,7 @@ export default class CartItem extends Component {
     render() {
         let {item} = this.props;
         return (
-            <div>
+            <div className="btnDiv">
                 {item.name}
                 {item.quantity}
                 {item.price}

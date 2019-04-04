@@ -7,7 +7,7 @@ import Cart from './Component/Cart'
 class App extends Component {
   render() {
     return (
-      <div>
+      <div className="main">
         <h1>My Cart</h1>
         <Cart/>
       </div>
