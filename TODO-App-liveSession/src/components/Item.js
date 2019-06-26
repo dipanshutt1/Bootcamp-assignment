@@ -35,7 +35,6 @@ class Item extends Component {
                             Edit
                         </Link>
                     </button>
-
                 </div>
             </div>
         )

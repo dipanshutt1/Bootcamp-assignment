@@ -4,13 +4,13 @@
     <list default="true" id="1cbfb9c2-b7c8-45a4-acbf-8ce15a441cdd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../TODO-App-liveSession/src/components/Item.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO-App-liveSession/src/components/Item.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dishes/src/Dish.js" beforeDir="false" afterPath="$PROJECT_DIR$/../dishes/src/Dish.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/contexthoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/contexthoc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../middleware-exercise/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../middleware-exercise/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myapp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myntra_app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myntra_app/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../react_app2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react_app2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../react_app2/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react_app2/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../react_app2/src/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react_app2/src/Counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxshoping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reduxshoping/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../routing_books/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../routing_books/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shoping_cart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shoping_cart/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todo_app/.gitignore" beforeDir="false" />
@@ -148,6 +148,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />

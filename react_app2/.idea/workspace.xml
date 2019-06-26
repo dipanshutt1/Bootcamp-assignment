@@ -2,18 +2,191 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a3a52bf-d80b-49dd-a411-79982b62fb70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../react/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react/.idea/react.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing_books/src/BookList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing_books/src/BooksJSON.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS-REST-API" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO-App-liveSession/.idea/TODO-App-liveSession.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO-App-liveSession/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO-App-liveSession/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO-App-liveSession/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO-App-liveSession/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/.idea/dishes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dishes/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express/.idea/express.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express/user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express/views/about.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express/views/addUser.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express/views/home.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express_app/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express_app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express_app/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express_app/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express_app/views/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express_app/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/.idea/expressfrontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressfrontend/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/.idea/hoc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/practice/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/practice/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../middleware-exercise/.idea/middleware-exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../middleware-exercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../middleware-exercise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../middleware-exercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../middleware-exercise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/npm-debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/practice_app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/practice_app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/practice_app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/practice_app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/practice_app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/practice_app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/practice_app/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/practice_app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/practice_app/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/practice_app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/practice_app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/practice_app/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/practice_app/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/npm-debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/practiceapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/practiceapp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/practiceapp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/practiceapp/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/practiceapp/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/practiceapp/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/practiceapp/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/practiceapp/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/practiceapp/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/practiceapp/src/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/practiceapp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/practiceapp/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/practiceapp/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactPractice/practiceapp/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/.idea/redux.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/.idea/redux_middleware.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux_middleware/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restApi/routingbackend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restApi/routingbackend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restApi/routingbackend/.idea/routingbackend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restApi/routingbackend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restApi/routingbackend/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restApi/routingbackend/public/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restApi/routingbackend/public/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restApi/routingbackend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restApi/routingbackend/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/.idea/routing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO-App-liveSession/src/components/EditItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO-App-liveSession/src/components/EditItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO-App-liveSession/src/components/Item.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO-App-liveSession/src/components/Item.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dishes/src/Dish.js" beforeDir="false" afterPath="$PROJECT_DIR$/../dishes/src/Dish.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocactivity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hocactivity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../middleware-exercise/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../middleware-exercise/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myapp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myntra_app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myntra_app/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxshoping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reduxshoping/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restApi/backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../restApi/backend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restApi/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../restApi/backend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restApi/frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../restApi/frontend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restApi/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../restApi/frontend/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../routing_books/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../routing_books/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../routing_books/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../routing_books/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../routing_books/src/Books.js" beforeDir="false" afterPath="$PROJECT_DIR$/../routing_books/src/Books.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoping_cart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shoping_cart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo_app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../dishes/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo_app/TODO-App-liveSession" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,8 +225,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/App.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="253">
-                  <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+                <state relative-caret-position="210">
+                  <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
                   <folding>
                     <element signature="e#0#41#0" expanded="true" />
                   </folding>
@@ -68,8 +241,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/Counter.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="193">
-                  <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+                <state relative-caret-position="220">
+                  <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
                   <folding>
                     <element signature="e#0#38#0" expanded="true" />
                   </folding>
@@ -89,9 +262,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/components/firstComponent.js" />
         <option value="$PROJECT_DIR$/src/Counter.css" />
-        <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/Counter.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/Counter.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
       </list>
     </option>
   </component>
@@ -149,14 +322,17 @@
       <workItem from="1553778954805" duration="1910000" />
       <workItem from="1553796397583" duration="1216000" />
       <workItem from="1554094721306" duration="907000" />
+      <workItem from="1554289360911" duration="1222000" />
+      <workItem from="1554804640930" duration="6345000" />
+      <workItem from="1560235173733" duration="160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26910000" />
+    <option name="totallyTimeSpent" value="34637000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="7" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2460815" />
@@ -173,7 +349,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30456027" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.16286644" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -223,8 +399,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Counter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="220">
+          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
@@ -233,8 +409,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="210">
+          <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>

@@ -11,7 +11,7 @@ class EditItem extends Component{
     render(){
         return(
             <div className='itemdiv'>
-                <form onSubmit={this.onEdit}>
+                <form onSubmit={this.onEdit} method='post' action='http://localhost:3001/getdata'>
                     <input type="text" placeholder="type changes here" defaultValue={this.props.name}/>
 
                     <br/><br/>

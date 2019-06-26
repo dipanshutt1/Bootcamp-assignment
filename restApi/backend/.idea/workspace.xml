@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cfdcf84-4cba-4ba7-9d00-d8f300cd5951" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../express_app/.idea/express_app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../express_app/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../express_app/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../express_app/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userDetails.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../express/.idea/express.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../express/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../express/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../express/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../express/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../express/user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routingbackend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routingbackend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routingbackend/.idea/routingbackend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routingbackend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routingbackend/public/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routingbackend/public/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routingbackend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routingbackend/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TODO-App-liveSession/src/components/Item.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../TODO-App-liveSession/src/components/Item.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../dishes/src/Dish.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../dishes/src/Dish.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../hocactivity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hocactivity/.idea/workspace.xml" afterDir="false" />
@@ -18,6 +25,10 @@
       <change beforePath="$PROJECT_DIR$/../../react_app2/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../react_app2/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../react_app2/src/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../react_app2/src/Counter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../reduxshoping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../reduxshoping/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../routing_books/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../routing_books/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../shoping_cart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../shoping_cart/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../todo_app/.gitignore" beforeDir="false" />
@@ -37,7 +48,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="255">
               <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
@@ -73,17 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/backend.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="77" />
     <option name="y" value="47" />
     <option name="width" value="1279" />
@@ -110,11 +111,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../frontend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../express" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,12 +140,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556081805183</updated>
-      <workItem from="1556081806396" duration="5977000" />
+      <workItem from="1556081806396" duration="8803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5977000" />
+    <option name="totallyTimeSpent" value="8803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -181,7 +183,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="255">
           <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>

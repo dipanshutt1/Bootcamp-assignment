@@ -25,7 +25,7 @@ class App extends Component {
         })
       })
       .catch(function(error){
-        console.log()
+        console.log(error)
       })
   }
   render() {

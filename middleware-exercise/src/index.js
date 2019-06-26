@@ -29,7 +29,7 @@ store.subscribe(() => {
 });
 
 
-store.dispatch([
+store.dispatch([userReducer
     {type:"ACTION_1" , data:"Action 1"},
     {type:"ACTION_2" , data:"Action 2"},
     {type:"ACTION_3" , data:"Action 3"},

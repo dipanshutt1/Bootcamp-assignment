@@ -12,12 +12,12 @@ class App extends Component{
     }
 
     increaseCount = (counter_id) => {
-        let temp_counters = this.state.counters;
+        let {counters:temp_counters} = this.state;
+
 
         if(counter_id)
         {
             temp_counters[counter_id]++;
-            console.log(temp_counters)
 
         }
         else{
@@ -27,44 +27,36 @@ class App extends Component{
         }
         this.setState({
             counters: temp_counters
-        }, () => console.log(this.state));
+        }, );
 
     };
 
 
     decreaseCount=(counter_id)=>{
-        let temp_counters1 = this.state.counters;
+        let {counters:temp_counters1} = this.state;
 
         if(counter_id)
         {
             temp_counters1[counter_id]--;
-            console.log(temp_counters1)
 
         }
         else{
-            for(let i in temp_counters1){
-                temp_counters1[i]--;
-            }
+            temp_counters1.forEach((e,i)=>temp_counters1[i]-1)
         }
         this.setState({
             counters: temp_counters1
-        }, () => console.log(this.state));
+        })
 
     }
     render(){
-
         let counters_arr = this.state.counters.map((element, index) => <Counter increaseCallback={this.increaseCount} decreaseCallback={this.decreaseCount} counter_id={index} parent_count={element}/>);
-
         return(
         <div>
-
             {counters_arr}
-
-        <button onClick={() => this.increaseCount()}>IncreaseAll</button>
-        <button onClick={()=>this.decreaseCount()}>DecreaseAll</button>
+            <button onClick={() => this.increaseCount()}>IncreaseAll</button>
+            <button onClick={()=>this.decreaseCount()}>DecreaseAll</button>
         </div>
     )
   }
 }
-
 export default App

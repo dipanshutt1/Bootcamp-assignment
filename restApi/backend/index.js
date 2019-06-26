@@ -31,8 +31,9 @@ var server=http.createServer(function(req,res){
         }
         break;
     }
-});
-
+	else{
+		res.end(JSON.stringify(users.list))
+	}
 server.listen(port,()=>{
     console.log(`Server running at http://${hostname}:${port}/`);
 

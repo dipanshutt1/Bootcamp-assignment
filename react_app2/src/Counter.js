@@ -6,7 +6,6 @@ constructor(props){
     super(props);
     this.state={
         count:0,
-        counter:0,
     };
 }
 
